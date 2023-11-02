@@ -9,7 +9,7 @@
 </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=imehmetgenc&label=Profile+Views)
+<p align="center"><img src="[/chicken.gif](https://komarev.com/ghpvc/?username=imehmetgenc&label=Profile+Views)" align="center" /></p>
 
 - 👋 Hello! I'm Mehmet Genç, a 23 years old Computer Technician and a passionate traveller of the code world.
 
