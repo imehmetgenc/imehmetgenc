@@ -36,6 +36,6 @@
 </p>
 
 
-<p align="center">
+<!--p align="center">
     <img src="https://streak-stats.demolab.com?user=imehmetgenc&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=512&type=png" />
-</p>
+</p--!>
