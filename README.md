@@ -36,5 +36,5 @@
 </p>
 
 <p align="center">
-    <a href="https://discord.gg/Ym4TvhrDn2" target="_blank"><img src="https://streak-stats.demolab.com?user=imehmetgenc&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=512&type=png" /></a>
+    <a href="https://discord.gg/Ym4TvhrDn2" target="_blank"><img src="https://discordapp.com/api/guilds/960544621681836086/embed.png?style=banner3" /></a>
 </p>
