@@ -35,6 +35,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="CPlusPlus" alt="CPlusPlus" width="40" height="40"/>&nbsp;
 </p>
 
-<!--p align="center">
-    <img src="https://streak-stats.demolab.com?user=imehmetgenc&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=512&type=png" />
-</p--!>
+<p align="center">
+    <a href="https://discord.gg/Ym4TvhrDn2" target="_blank"><img src="https://streak-stats.demolab.com?user=imehmetgenc&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=512&type=png" /></a>
+</p>
