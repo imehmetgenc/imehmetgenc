@@ -36,6 +36,6 @@
 </p>
 
 <p align="center">
-    <img src="https://discordapp.com/api/guilds/960544621681836086/embed.png?style=banner3" />
+    <a href="https://discord.gg/Ym4TvhrDn2" target="_blank"><img src="https://discordapp.com/api/guilds/960544621681836086/embed.png?style=banner3" /></a>
     <!--a href="https://discord.gg/Mv69gtzfBy" target="_blank"><img src="https://discordapp.com/api/guilds/768150156733710376/embed.png?style=banner3" /></a -->
 </p>
