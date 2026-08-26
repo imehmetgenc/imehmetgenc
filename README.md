@@ -15,7 +15,7 @@
 
 - 💻 I have a wide range of Programming Languages, I especially like to work with JavaScript, PHP, Laravel, HTML, CSS, MySQL, PSQL, Mongo and some C++, C\#.
 
-- 🚀 I often contribute to Open Source projects, especially Node.js, Lavalink, Discord.js, Wordpress, Bootstrap.
+- 🚀 I often contribute to Open Source projects, especially Node.js, Lavalink, Discord.js, Wordpress, Bootstrap, Tailwind.
 
 - 🌟 My personal mission is to help my projects grow and get more attention. I always want to work on new projects and grow.
   
