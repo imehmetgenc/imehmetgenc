@@ -13,7 +13,7 @@
 
 - 👋 Hello! I'm Mehmet Genç, a 24 years old Computer Technician and a passionate traveller of the code world.
 
-- 💻 I have a wide range of Programming Languages, I especially like to work with JavaScript, PHP, HTML, CSS, MySQL, Mongo and some C++, C\#.
+- 💻 I have a wide range of Programming Languages, I especially like to work with JavaScript, PHP, Laravel, HTML, CSS, MySQL, PSQL, Mongo and some C++, C\#.
 
 - 🚀 I often contribute to Open Source projects, especially Node.js, Lavalink, Discord.js, Wordpress, Bootstrap.
 
